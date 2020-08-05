@@ -2,8 +2,9 @@ import asyncio
 
 
 async def main():
-    print("<Your app is running>...")
-    await asyncio.sleep(0.1)
+    while True:
+        print("<Your app is running>...")
+        await asyncio.sleep(1)
 
 
 if __name__ == "__main__":
