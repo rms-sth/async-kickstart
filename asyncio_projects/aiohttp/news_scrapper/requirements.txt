@@ -7,7 +7,7 @@ black==19.10b0
 chardet==3.0.4
 click==7.1.2
 idna==2.10
-lxml==4.5.2
+lxml==4.6.2
 multidict==4.7.6
 pathspec==0.8.0
 regex==2020.7.14
