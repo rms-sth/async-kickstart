@@ -1,4 +1,4 @@
-aiohttp==3.7.4
+aiohttp==3.8.5
 aiohttp-jinja2==1.2.0
 aiopg==1.0.0
 appdirs==1.4.4
